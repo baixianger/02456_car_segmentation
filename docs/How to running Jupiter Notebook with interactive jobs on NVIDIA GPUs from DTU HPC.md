@@ -60,6 +60,7 @@ ssh端口映射
 
 ```shell
 ssh s213120@login2.gbar.dtu.dk -g -L8080:n-62-12-19:40001 -N
+ssh s213120@login2.gbar.dtu.dk -g -L8080:n-62-20-9:40001 -N
 ```
 
 ![1640907053963.png](image//1640907053963.png)
