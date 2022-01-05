@@ -22,7 +22,6 @@ ssh s213120@login2.gbar.dtu.dk
 
 ```bash
 ## type in your **passwords**
-BX_by.1990112
 ```
 
 ### 1.2 Running interactively on GPUs
